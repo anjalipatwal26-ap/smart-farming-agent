@@ -1,0 +1,239 @@
+CROP SEASONS IN INDIA:
+Kharif crops (June-October): Rice, Maize, Cotton, Soybean, Groundnut, Bajra, Jowar, Arhar, Moong, Urad, Sesame, Jute
+Rabi crops (October-March): Wheat, Mustard, Gram, Peas, Barley, Linseed, Fenugreek, Coriander, Cumin
+Zaid crops (March-June): Watermelon, Muskmelon, Cucumber, Bitter gourd, Pumpkin, Moong, Urad
+
+CROP SOWING CALENDAR:
+Rice: Sow June-July, Harvest October-November. Requires flooded fields initially.
+Wheat: Sow October-November, Harvest March-April. Best temp 10-25C.
+Maize: Sow June-July, Harvest September-October. Needs good drainage.
+Cotton: Sow April-May, Harvest October-December. Requires warm climate.
+Mustard: Sow October, Harvest February-March. Drought tolerant.
+Sugarcane: Sow February-March, Harvest December-February. 12-18 month crop.
+Potato: Sow October-November, Harvest January-February. Cool climate needed.
+Tomato: Sow June-July or November-December. Harvest after 60-70 days.
+Onion: Sow November-December, Harvest March-May.
+Groundnut: Sow June-July, Harvest October-November.
+Soybean: Sow June-July, Harvest October. High protein crop.
+Arhar/Tur Dal: Sow June-July, Harvest December-January. Drought tolerant.
+
+SOIL TYPES AND SUITABLE CROPS:
+Alluvial soil (Indo-Gangetic Plains - UP, Punjab, Haryana, Bihar):
+- Best for: Wheat, Rice, Sugarcane, Cotton, Maize, Vegetables
+- pH: 6.5-7.5, Very fertile, high nutrients
+- Tip: Maintain organic matter, avoid waterlogging
+
+Black soil / Regur soil (Maharashtra, MP, Gujarat, AP):
+- Best for: Cotton, Soybean, Jowar, Wheat, Sunflower, Citrus
+- pH: 7.5-8.5, High water retention, self-ploughing
+- Tip: Avoid over-irrigation, good for rainfed farming
+
+Red soil (AP, Tamil Nadu, Odisha, Jharkhand):
+- Best for: Groundnut, Millets, Tobacco, Fruits, Vegetables
+- pH: 5.5-7.0, Low in nitrogen and phosphorus
+- Tip: Add organic manure and phosphatic fertilizers
+
+Sandy/Desert soil (Rajasthan, Gujarat):
+- Best for: Bajra, Moth bean, Cluster bean, Guar, Sesame
+- pH: 7.0-8.5, Low water retention, low fertility
+- Tip: Drip irrigation essential, add organic matter
+
+Laterite soil (Kerala, Karnataka, West Bengal hills):
+- Best for: Tea, Coffee, Cashew, Rubber, Coconut
+- pH: 4.5-6.0, Acidic, low in lime and nitrogen
+- Tip: Add lime to reduce acidity, use green manure
+
+Mountain soil (Himalayan states - HP, Uttarakhand, J&K):
+- Best for: Apple, Pear, Apricot, Walnut, Tea, Potato
+- pH: 5.0-6.5, Rich in humus
+- Tip: Terracing essential to prevent erosion
+
+FERTILIZER GUIDE:
+NPK meaning: N=Nitrogen (leaf/stem growth), P=Phosphorus (root/flower), K=Potassium (fruit/grain quality)
+
+Wheat fertilizer:
+- Apply 120kg N + 60kg P + 40kg K per hectare
+- Split N: 50% basal + 25% at crown root + 25% at jointing
+- Use Urea for N, DAP for P, MOP for K
+- Apply zinc sulfate 25kg/ha if zinc deficient
+
+Rice fertilizer:
+- Apply 120kg N + 60kg P + 60kg K per hectare
+- Apply N in 3 splits: basal, tillering, panicle initiation
+- Use Urea, DAP, MOP
+- Apply zinc sulfate 25kg/ha in zinc deficient soils
+
+Cotton fertilizer:
+- Apply 150kg N + 60kg P + 60kg K per hectare
+- Apply boron 1kg/ha to prevent boll shedding
+- Use FYM 10 tonnes/ha before sowing
+
+Tomato fertilizer:
+- Apply 100kg N + 60kg P + 80kg K per hectare
+- Use calcium nitrate to prevent blossom end rot
+- Foliar spray micronutrients every 15 days
+
+Potato fertilizer:
+- Apply 150kg N + 100kg P + 150kg K per hectare
+- High potassium improves tuber quality
+
+Organic options:
+- FYM (Farm Yard Manure): 10-15 tonnes/ha, apply 3-4 weeks before sowing
+- Vermicompost: 5 tonnes/ha, excellent for all crops
+- Neem cake: 200kg/ha, acts as fertilizer + pest repellent
+- Green manure: Dhaincha/Sunhemp, incorporate before flowering
+
+PEST AND DISEASE CONTROL:
+Rice pests:
+- Stem borer: Yellow/white deadheart. Use Chlorpyrifos 20EC @ 2.5ml/L or Cartap hydrochloride
+- Brown planthopper: Yellowing, hopper burn. Use Imidacloprid 17.8SL @ 0.3ml/L
+- Leaf folder: Folded leaves, white streaks. Use Monocrotophos 36SL @ 1.5ml/L
+- Blast disease: Diamond shaped lesions. Use Tricyclazole 75WP @ 0.6g/L
+- Sheath blight: Brown lesions on sheath. Use Hexaconazole 5EC @ 2ml/L
+
+Wheat pests:
+- Aphids: Curled leaves, sticky honeydew. Use Dimethoate 30EC @ 1ml/L or neem oil
+- Rust (yellow/brown/black): Colored pustules on leaves. Use Propiconazole 25EC @ 1ml/L
+- Loose smut: Black powdery head. Use seed treatment with Carboxin 75WP
+- Termites: Wilting plants. Use Chlorpyrifos in irrigation water
+
+Cotton pests:
+- Bollworm (American/Spotted/Pink): Damaged bolls. Use Bt spray, Spinosad, or Emamectin
+- Whitefly: Yellowing, sticky leaves, virus vector. Use Neem oil + Yellow sticky traps
+- Thrips: Silver streaks on leaves. Use Fipronil 5SC @ 1.5ml/L
+- Root rot: Wilting, brown roots. Seed treatment with Trichoderma
+
+Vegetable pests:
+- Aphids on vegetables: Neem oil 5ml/L + soap solution
+- Fruit borer on tomato/brinjal: Spinosad 45SC or pheromone traps
+- Downy mildew: Blue-grey fungal growth. Use Metalaxyl + Mancozeb
+- Early blight on tomato: Brown concentric rings. Use Mancozeb 75WP @ 2g/L
+
+General organic pest control:
+- Neem oil spray: 5ml/L water, effective for soft-bodied insects
+- Neem cake soil application: Repels soil pests
+- Yellow sticky traps: For whitefly, thrips, aphids
+- Pheromone traps: For bollworm, fruit borer
+- Trichogramma cards: Biological control for stem borers
+- Beauveria bassiana: Fungal biocontrol for many pests
+
+IRRIGATION GUIDE:
+Drip irrigation:
+- Best for: Fruits, vegetables, sugarcane, cotton
+- Water saving: 40-50% compared to flood irrigation
+- Fertigation possible (apply fertilizer through drip)
+
+Sprinkler irrigation:
+- Best for: Wheat, groundnut, vegetables, nurseries
+- Water saving: 25-30% compared to flood irrigation
+- Not suitable for rice
+
+Flood irrigation:
+- Used for: Rice (paddy), sugarcane
+- Requires: Level land, bunds around fields
+
+Critical irrigation stages:
+Wheat: Crown root initiation (21 days), Tillering (45 days), Jointing (65 days), Flowering (90 days), Grain filling (105 days)
+Rice: Transplanting, Tillering, Panicle initiation, Flowering, Grain filling
+Maize: Knee height, Tasseling, Silking, Grain filling
+Cotton: Squaring, Flowering, Boll development
+
+Water stress signs:
+- Leaf rolling/wilting in morning: Immediate irrigation needed
+- Soil cracking: Severe water stress
+- Bluish-green color change: Early water stress
+
+WEATHER AND FARMING DECISIONS:
+Temperature effects:
+- Below 5°C: Frost risk. Cover nurseries, spray water on plants at night
+- 5-15°C: Good for wheat, mustard, vegetables
+- 15-25°C: Ideal for most crops
+- 25-35°C: Good for rice, cotton, maize
+- Above 40°C: Heat stress. Increase irrigation, mulching recommended
+- Above 45°C: Severe stress, avoid field operations
+
+Humidity effects:
+- Below 40%: Drought stress, spider mites active
+- 40-70%: Ideal range for most crops
+- Above 70%: Fungal disease risk increases
+- Above 85%: High risk of blast, blight, mildew diseases
+
+Rain and farming:
+- Rain forecast within 24 hours: Do NOT spray pesticides
+- Heavy rain forecast: Postpone fertilizer application
+- After rain: Apply fungicide preventively in humid conditions
+- Dry spell >2 weeks: Start irrigation immediately
+
+Wind effects:
+- High winds: Avoid spraying pesticides
+- Hot dry winds (Loo): Increase irrigation frequency
+- Coastal winds: Salt spray can damage crops near coast
+
+MARKET AND ECONOMICS:
+MSP (Minimum Support Price) crops 2024-25 (approximate):
+- Wheat: Rs 2275/quintal
+- Rice/Paddy: Rs 2300/quintal
+- Maize: Rs 2090/quintal
+- Tur/Arhar: Rs 7550/quintal
+- Moong: Rs 8682/quintal
+- Groundnut: Rs 6783/quintal
+- Mustard: Rs 5950/quintal
+- Cotton (medium): Rs 7121/quintal
+- Soybean: Rs 4892/quintal
+- Sunflower: Rs 7280/quintal
+
+Factors affecting mandi prices:
+- Season: Prices fall at harvest time, rise in off-season
+- Quality: Moisture content, foreign matter affect price
+- Demand: Festival seasons increase vegetable prices
+- Transport: Distance from mandi affects net price
+- Storage: Farmers with storage get better off-season prices
+
+GOVERNMENT SCHEMES FOR FARMERS:
+- PM Kisan Samman Nidhi: Rs 6000/year direct transfer
+- Pradhan Mantri Fasal Bima Yojana: Crop insurance
+- Kisan Credit Card: Low interest farm loans
+- PM Krishi Sinchai Yojana: Irrigation subsidy
+- Soil Health Card: Free soil testing
+- eNAM: Online mandi platform for better prices
+- Rashtriya Krishi Vikas Yojana: Infrastructure support
+
+ORGANIC FARMING GUIDE:
+Principles:
+- No synthetic fertilizers or pesticides
+- Use of compost, FYM, vermicompost
+- Crop rotation to maintain soil health
+- Intercropping for natural pest control
+
+Organic certification:
+- PGS India: Participatory Guarantee System
+- Third party: IMO, ECOCERT, OneCert
+- Process takes 3 years for conversion
+
+Organic inputs:
+- Jeevamrit: Mix 200L water + 10kg desi cow dung + 10L desi cow urine + 2kg jaggery + 2kg gram flour + handful soil. Ferment 48 hours. Apply 200L/acre monthly
+- Panchagavya: Cow dung + urine + milk + curd + ghee. Spray 3% solution
+- Beejamrit: Seed treatment before sowing with cow dung solution
+
+FARM MANAGEMENT TIPS:
+Crop rotation benefits:
+- Legume after cereal: Fixes nitrogen, reduces fertilizer need
+- Example: Rice-Wheat-Moong rotation in Punjab/UP
+- Reduces pest and disease buildup
+
+Intercropping benefits:
+- Maize + Moong: Increases income per acre
+- Sugarcane + Wheat: Utilizes space efficiently
+- Arhar + Soybean: Natural pest management
+
+Post harvest management:
+- Dry produce to safe moisture levels before storage
+- Wheat: 12% moisture for safe storage
+- Use hermetic bags or metal bins to prevent weevils
+- Apply phosphine tablets in sealed storage
+
+Soil health improvement:
+- Add organic matter every season
+- Avoid burning crop residue - incorporate it
+- Subsoil ploughing every 3-4 years
+- Green manure crops in fallow period
