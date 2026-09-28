@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+requests
+ibm-watsonx-ai
+langchain-text-splitters
+langchain-community
+chromadb
+sentence-transformers
+ddgs
