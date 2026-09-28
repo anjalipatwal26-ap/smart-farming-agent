@@ -10,7 +10,7 @@ Built for the IBM University Engagement Program.
 
 ## 📸 Demo
 
-<!-- Add a screenshot or GIF here. Example: ![KisanAI chat](docs/demo.gif) -->
+<!-- Add a screenshot or GIF here. Example: ![KisanAI demo](docs/demo.gif) -->
 
 _Screenshots coming soon._
 
@@ -18,7 +18,7 @@ _Screenshots coming soon._
 
 ## 🚀 Features
 
-- 💬 **AI Chat** — Ask farming questions in Hindi or English, answered by IBM Watsonx Granite using context retrieved from a farming knowledge base
+- 💬 **AI Chat** — Ask farming questions in Hindi or English, answered by IBM Watsonx Granite using context retrieved from a farming knowledge base (requires a valid IBM Watsonx API key)
 - 🔎 **Web Search Support** — Supplements the knowledge base with DuckDuckGo search results
 - 🌦 **Live Weather** — Real-time weather from OpenWeatherMap with farming alerts (heat, fungal risk)
 - 📅 **Crop Calendar** — Month-wise crop recommendations for Indian seasons
@@ -46,15 +46,15 @@ _Screenshots coming soon._
 
 KisanAI uses **Retrieval-Augmented Generation (RAG)**, so answers are grounded in farming data instead of relying only on what the LLM already knows.
 
-1. **Ingest** — Farming documents in `data/` are split into small chunks with LangChain's `RecursiveCharacterTextSplitter`.
+1. **Ingest** — Farming documents are split into small chunks with LangChain's `RecursiveCharacterTextSplitter`.
 2. **Embed and store** — Each chunk is converted into a vector by a HuggingFace embedding model and stored in a ChromaDB vector database.
 3. **Retrieve** — When a farmer asks a question, the most relevant chunks are found by vector similarity search.
-4. **Generate** — The question, the retrieved context, and the live weather for the selected city go to IBM Watsonx Granite, which writes the answer in the farmer's chosen language (Hindi or English).
+4. **Generate** — The question and the retrieved context go to IBM Watsonx Granite, which writes the answer in the farmer's chosen language (Hindi or English).
 
 ```
 Farmer question ──► Flask /chat ──► RAG retrieval (ChromaDB) ─┐
                                                               ├──► Watsonx Granite ──► Answer (Hindi / English)
-                    Weather + web search context ─────────────┘
+                    Web search context ───────────────────────┘
 ```
 
 ---
@@ -88,8 +88,8 @@ smart-farming-agent/
 
 - Python 3.10+ (developed on 3.11)
 - Node.js 16+
-- IBM Watsonx API key and project ID
 - OpenWeatherMap API key (free tier works)
+- IBM Watsonx API key, project ID and service URL (needed for AI chat only)
 
 ### 1. Clone the repository
 
@@ -122,10 +122,15 @@ cp .env.example .env
 Then edit `backend/.env`:
 
 ```env
-WATSONX_API_KEY=your_watsonx_api_key
-WATSONX_PROJECT_ID=your_project_id
+IBM_API_KEY=your_ibm_api_key
+IBM_PROJECT_ID=your_project_id
+IBM_URL=https://us-south.ml.cloud.ibm.com
 WEATHER_API_KEY=your_openweathermap_key
 ```
+
+`IBM_URL` depends on the region of your watsonx project (for example `us-south`, `eu-de` or `jp-tok`).
+
+> **Note:** AI chat needs a valid IBM Watsonx API key. Without one, the other features (weather, crop calendar, soil checker, pest guide, mandi prices) still work.
 
 Start the backend server:
 
@@ -197,9 +202,12 @@ The frontend runs at `http://localhost:3000`.
 |---------|-----|
 | `ModuleNotFoundError` when starting the backend | Run `pip install -r requirements.txt` inside `backend/` |
 | `/weather` returns a 401 error | A new OpenWeatherMap key can take up to a couple of hours to activate |
-| `/chat` fails with a credentials error | Check `WATSONX_API_KEY` and `WATSONX_PROJECT_ID` in `backend/.env` |
+| `/chat` shows "Khed hai, abhi jawab nahi de pa raha" | Check the backend terminal for the real error |
+| Backend prints `url is not provided` | Set `IBM_URL` in `backend/.env` and restart the backend |
+| Backend prints `Provided API key is disabled` | The IBM API key is invalid. Create a new key and update `IBM_API_KEY` |
 | First start is slow | The embedding model is downloading. This only happens once |
 | HuggingFace "unauthenticated requests" warning | Harmless. Set `HF_TOKEN` only if you want faster downloads |
+| Changes to `.env` have no effect | Stop the backend with `Ctrl + C` and start it again |
 
 ---
 
